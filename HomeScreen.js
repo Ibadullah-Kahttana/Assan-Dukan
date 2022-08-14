@@ -41,7 +41,14 @@ const HomeScreen = ({ navigation }) => {
 
         </TouchableOpacity>
       </View>
+<<<<<<< HEAD
 <Text>commit from majeed </Text>
+=======
+
+<View>
+  <Text> Commit From Ibad</Text>
+</View>
+>>>>>>> bff66ae7eeb3a9f6a60461e1081ffd91d53f2f3d
 
     </View>
   );
