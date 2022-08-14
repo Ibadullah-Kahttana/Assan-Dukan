@@ -17,6 +17,7 @@ const HomeScreen = ({ navigation }) => {
     <View style={styles.container}>
       <StatusBar backgroundColor={'black'} barStyle={theme.dark ? "dark-content" : "light-content"} />
 
+      // Header Bar
       <View style={styles.headerBar}>
 
         <TouchableOpacity onPress={() => navigation.openDrawer()}>
@@ -39,9 +40,6 @@ const HomeScreen = ({ navigation }) => {
           /></View>
 
         </TouchableOpacity>
-        
-
-
       </View>
 
 
