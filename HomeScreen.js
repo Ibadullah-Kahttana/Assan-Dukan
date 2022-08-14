@@ -41,7 +41,7 @@ const HomeScreen = ({ navigation }) => {
 
         </TouchableOpacity>
       </View>
-
+<Text>commit from majeed </Text>
 
     </View>
   );
