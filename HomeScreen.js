@@ -42,6 +42,9 @@ const HomeScreen = ({ navigation }) => {
         </TouchableOpacity>
       </View>
 
+<View>
+  <Text> Commit From Ibad</Text>
+</View>
 
     </View>
   );
