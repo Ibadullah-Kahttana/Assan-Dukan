@@ -61,6 +61,14 @@ const HomeScreen = ({navigation}) => {
       <View>
         <Text> Commit From Ibad</Text>
       </View>
+
+      <View>
+        <Text> Commit From Ibad</Text>
+      </View>
+
+      <View>
+        <Text> Commit From Ibad</Text>
+      </View>
     </View>
   );
 };
